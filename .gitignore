@@ -1,0 +1,7 @@
+# Django stuff:
+*.log
+settings.py
+local_settings.py
+db.mysql
+db.mysql-journal
+mydb.py
